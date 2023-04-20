@@ -1,4 +1,4 @@
-# User Manager
+# UserManager
 
 ## Make and manage users/wallets
 
